@@ -1,19 +1,19 @@
-lat,lng,Place,Country,Language,Year,Translator,Title,Publisher,Address,Comments
-41.0085594227,28.9783694834,Istanbul,Turkey,Turkish,1946,Fahrünnisa Seden,Jane Eyre,Pulhan Matbaası,,
-41.016904668,28.9306274553,Istanbul,Turkey,Turkish,1946,Saffet Orgun,Jane Eyre,Türkiye Yayınevi,,
-41.0165887111,28.9466840505,Istanbul,Turkey,Turkish,1954,Tahsin Yücel,Jane Eyre,Varlık Yayınları,,"Caption on front cover reads ""Varlık Children's Classics"
-40.9333098464,29.2737252451,Istanbul,Turkey,Turkish,1962,Eser Tutel,Jane Eyre,Altın Kitabevi,,
-40.9815065079,29.041771981,Istanbul,Turkey,Turkish,1975,Nihal Yeğinobali,Jane Eyre,Halk El Sanatları ve Neşriyat,,
-41.0148094539,28.94569969,Istanbul,Turkey,Turkish,1978,Ömer Karacık,Jane Eyre,İnkılâp ve Aka Yayınevi,,
-41.0316889366,28.975254581,Istanbul,Turkey,Turkish,1990,Nihal Yeğinobali,Jane Eyre,Ening Yayıncılık,,"Cover image: Edgar Dégas. ""Portrait of a Young Woman"" (1867)"
-41.0286070429,28.976684648,Istanbul,Turkey,Turkish,2005,Nurten Tunç,Jane Eyre,Oda Yayınları,,"Cover image: ""At the Dressing Table"". Zinaida Serebriakova. 1909"
-40.9900649823,29.0226162201,Istanbul,Turkey,Turkish,2007,Ayşe Düzkan,Jane Eyre,Bordo Siyah Yayınevi,,Caption reads 'The love that survived against the aristocracy'.
-41.040147618,28.9745051104,Istanbul,Turkey,Turkish,2008,Nihal Yeğinobali,Jane Eyre,Can Yayınları,,"Cover image: ""Portrait of a Lady"". Octavius Oakley. c. 1850"
-40.9902681986,29.0231175315,Istanbul,Turkey,Turkish,2009,Çiğdem Özmen,Jane Eyre,Antik Kitap,,
-41.0469360071,28.8862092397,Istanbul,Turkey,Turkish,2011,Ceren Taştan,Jane Eyre,Martı Yayınları,,Caption reads 'The happiness that arrived after many years'
-41.0274662947,28.7930892825,Istanbul,Turkey,Turkish İ,2015,Göksu Birol,Jane Eyre,Yason Yayınları,,
-41.0223206374,28.9408040752,Istanbul,Turkey,Turkish,2016,Sibel Alaş,Jane Eyre,Büyülü Fener,,
-40.9886930024,29.0243333623,Istanbul,Turkey,Turkish,2017,Arzu Altınanıt,Jane Eyre,Yabancı Yayınevi,,
-41.0203754223,28.9201309111,Istanbul,Turkey,Turkish,2017,Ceren Taştan,Jane Eyre,Martı Yayınları,,Hardcover
-39.9490655202,32.8453195163,Ankara,Turkey,Turkish,2017,Mustafa Baştürk,Jane Eyre,Gece Kitaplığı,,Caption reads: 'I stare at my impending doom and live in peace.'
-40.9873038613,29.0245372465,Istanbul,Turkey,Turkish,2018,Arzu Altınanıt,Jane Eyre,İthaki Yayınevi,,Includes a preface
+lat,lng,Place,Country,Language,Year,Translator,Title,Publisher,Address,Comments,img
+41.0085594227,28.9783694834,Istanbul,Turkey,Turkish,1946,Fahrünnisa Seden,Jane Eyre,Pulhan Matbaası,,,https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/1946%20Fahru%CC%88nnisa%20Seden.jpg
+41.016904668,28.9306274553,Istanbul,Turkey,Turkish,1946,Saffet Orgun,Jane Eyre,Türkiye Yayınevi,,,https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/1946%20Saffet%20Orgun.jpg
+41.0165887111,28.9466840505,Istanbul,Turkey,Turkish,1954,Tahsin Yücel,Jane Eyre,Varlık Yayınları,,"Caption on front cover reads ""Varlık Children's Classics",https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/1954%20Tahsin%20Yu%CC%88cel.jpg
+40.9333098464,29.2737252451,Istanbul,Turkey,Turkish,1962,Eser Tutel,Jane Eyre,Altın Kitabevi,,,https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/1962%20Eser%20Tutel.jpg
+40.9815065079,29.041771981,Istanbul,Turkey,Turkish,1975,Nihal Yeğinobali,Jane Eyre,Halk El Sanatları ve Neşriyat,,,https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/1975%20Nihal%20Yeg%CC%86inobal%C4%B1.jpg
+41.0148094539,28.94569969,Istanbul,Turkey,Turkish,1978,Ömer Karacık,Jane Eyre,İnkılâp ve Aka Yayınevi,,,https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/1978%20O%CC%88mer%20Karac%C4%B1k.jpg
+41.0316889366,28.975254581,Istanbul,Turkey,Turkish,1990,Nihal Yeğinobali,Jane Eyre,Ening Yayıncılık,,"Cover image: Edgar Dégas. ""Portrait of a Young Woman"" (1867)",https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/1990%20Nihal%20Yeg%CC%86inobal%C4%B1.jpg
+41.0286070429,28.976684648,Istanbul,Turkey,Turkish,2005,Nurten Tunç,Jane Eyre,Oda Yayınları,,"Cover image: ""At the Dressing Table"". Zinaida Serebriakova. 1909",https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/2005%20Nurten%20Tunc%CC%A7.png
+40.9900649823,29.0226162201,Istanbul,Turkey,Turkish,2007,Ayşe Düzkan,Jane Eyre,Bordo Siyah Yayınevi,,Caption reads 'The love that survived against the aristocracy'.,https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/2007%20Ays%CC%A7e%20Du%CC%88zkan.jpg
+41.040147618,28.9745051104,Istanbul,Turkey,Turkish,2008,Nihal Yeğinobali,Jane Eyre,Can Yayınları,,"Cover image: ""Portrait of a Lady"". Octavius Oakley. c. 1850",https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/2008%20Nihal%20Yeg%CC%86inobal%C4%B1.jpg
+40.9902681986,29.0231175315,Istanbul,Turkey,Turkish,2009,Çiğdem Özmen,Jane Eyre,Antik Kitap,,,https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/2009%20C%CC%A7ig%CC%86dem%20O%CC%88zmen.jpg
+41.0469360071,28.8862092397,Istanbul,Turkey,Turkish,2011,Ceren Taştan,Jane Eyre,Martı Yayınları,,Caption reads 'The happiness that arrived after many years',https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/2011%20Ceren%20Tas%CC%A7tan.jpg
+41.0274662947,28.7930892825,Istanbul,Turkey,Turkish İ,2015,Göksu Birol,Jane Eyre,Yason Yayınları,,,https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/2015%20Go%CC%88ksu%20Birol.jpg
+41.0223206374,28.9408040752,Istanbul,Turkey,Turkish,2016,Sibel Alaş,Jane Eyre,Büyülü Fener,,,https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/2016%20Sibel%20Alas%CC%A7.jpg
+40.9886930024,29.0243333623,Istanbul,Turkey,Turkish,2017,Arzu Altınanıt,Jane Eyre,Yabancı Yayınevi,,,https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/2017%20Arzu%20Alt%C4%B1nan%C4%B1t.jpg
+41.0203754223,28.9201309111,Istanbul,Turkey,Turkish,2017,Ceren Taştan,Jane Eyre,Martı Yayınları,,Hardcover,https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/2017%20Ceren%20Tas%CC%A7tan.jpg
+39.9490655202,32.8453195163,Ankara,Turkey,Turkish,2017,Mustafa Baştürk,Jane Eyre,Gece Kitaplığı,,Caption reads: 'I stare at my impending doom and live in peace.',https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/2017%20Mustafa%20Bas%CC%A7tu%CC%88rk.jpg
+40.9873038613,29.0245372465,Istanbul,Turkey,Turkish,2018,Arzu Altınanıt,Jane Eyre,İthaki Yayınevi,,Includes a preface,https://raw.githubusercontent.com/digitalkoine/turkish_storymap/main/turkish/2018%20Arzu%20Alt%C4%B1nan%C4%B1t.jpg
