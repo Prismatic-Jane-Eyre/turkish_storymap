@@ -78,13 +78,11 @@
 		startText += cover_image;//Don't change. The varibale is defined above
 		startText += '>';
 		startText += '</br></br>Principal Investigator: <b>Matthew Reynolds</b> | Digital Humanities Expert: <b>Giovanni Pietro Vitali</b> | WebGIS Expert: <b>Simone Landucci</b>'
-		startText += '<br><h3>This is the the Cover Map for ';
-		startText += language;//Don't change. The varibale is defined above
 		startText += '<img src="./icons/PrismaticLogo.png">'; ;
-		startText += '</h3>';
-		startText += ' Translations</b> gather together by <a href='
-		startText += 'https://prismaticjaneeyre.org/'
-		startText += '> Prismatic Jane Eyre </a> Team.</h2></br><i>Use the buttons in the top left corner to move forward and backward.</i>';
+		startText += 'This map shows you a selection of book covers linked to their place of publication. The accuracy of that ‘place’ varies. When we have been able to find a street address for the publisher, we have used that as the book’s location on the map and also listed it beneath the cover image'
+		startText += ' (though it may sometimes be the case that the address was different at the time of publication). When we have not been able to find a street address we have supplied a random location within the town or city concerned: in these cases no address is listed beneath the cover image.'
+		startText += '<br></br>'
+		startText += '<i>Use the buttons at the top left of the map to move through the covers, and zoom in and out. Alternatively, you can use the directional buttons on your keyboard, and track-pad, mouse or touchscreen.</i>';
 
 		//Don't change. Creates an empty array called title. It fill filled with the for loop below. It is necessary for the onEachFeature function in the storymap.js
 		var titles = new Array()
